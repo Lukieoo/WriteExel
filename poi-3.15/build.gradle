@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('poi-3.15.jar'))
